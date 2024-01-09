@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiddleWareInside", "MiddleWareInside\MiddleWareInside.csproj", "{701ABCB9-53D4-4E3F-B228-6F2969E71BFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReturnJsonMinimalApi", "ReturnJsonMinimalApi\ReturnJsonMinimalApi.csproj", "{C3683B3F-E7AB-41C4-B28C-27C8DB779767}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{701ABCB9-53D4-4E3F-B228-6F2969E71BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{701ABCB9-53D4-4E3F-B228-6F2969E71BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{701ABCB9-53D4-4E3F-B228-6F2969E71BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3683B3F-E7AB-41C4-B28C-27C8DB779767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3683B3F-E7AB-41C4-B28C-27C8DB779767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3683B3F-E7AB-41C4-B28C-27C8DB779767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3683B3F-E7AB-41C4-B28C-27C8DB779767}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
