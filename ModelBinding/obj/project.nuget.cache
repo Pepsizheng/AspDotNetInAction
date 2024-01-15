@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "eb5+6NfEyPXWZhF2W6gy3ILtZOSBoOMOMGyHOHq2gS3CP/txhCPHTGV8tVIkHT4SyOUf2bVmt45MrTGmMi84hw==",
+  "dgSpecHash": "xfrgoPmx9tBmj8R65rMjhiSC9qbvCWWwoLEGplhz83tB6y1Xhl1oPHDgY7nUXkPGsCRrmhq4E25qs4AHb3gw0A==",
   "success": true,
   "projectFilePath": "/workspaces/AspDotNetInAction/ModelBinding/ModelBinding.csproj",
   "expectedPackageFiles": [],

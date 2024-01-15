@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiddleWareInside", "MiddleW
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReturnJsonMinimalApi", "ReturnJsonMinimalApi\ReturnJsonMinimalApi.csproj", "{C3683B3F-E7AB-41C4-B28C-27C8DB779767}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelBinding", "ModelBinding\ModelBinding.csproj", "{213557F6-DE80-4D98-94C6-36E352631479}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C3683B3F-E7AB-41C4-B28C-27C8DB779767}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3683B3F-E7AB-41C4-B28C-27C8DB779767}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3683B3F-E7AB-41C4-B28C-27C8DB779767}.Release|Any CPU.Build.0 = Release|Any CPU
+		{213557F6-DE80-4D98-94C6-36E352631479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{213557F6-DE80-4D98-94C6-36E352631479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{213557F6-DE80-4D98-94C6-36E352631479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{213557F6-DE80-4D98-94C6-36E352631479}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
