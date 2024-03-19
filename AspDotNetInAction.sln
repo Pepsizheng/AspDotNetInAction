@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReturnJsonMinimalApi", "Ret
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelBinding", "ModelBinding\ModelBinding.csproj", "{213557F6-DE80-4D98-94C6-36E352631479}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dependencyInjection", "dependencyInjection\dependencyInjection.csproj", "{406FC83A-3B07-4E16-99F0-8B686B90DDF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingEfCore", "UsingEfCore\UsingEfCore.csproj", "{81465EB6-1AE2-4235-9246-82E0661FB31B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{213557F6-DE80-4D98-94C6-36E352631479}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{213557F6-DE80-4D98-94C6-36E352631479}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{213557F6-DE80-4D98-94C6-36E352631479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{406FC83A-3B07-4E16-99F0-8B686B90DDF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406FC83A-3B07-4E16-99F0-8B686B90DDF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406FC83A-3B07-4E16-99F0-8B686B90DDF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406FC83A-3B07-4E16-99F0-8B686B90DDF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81465EB6-1AE2-4235-9246-82E0661FB31B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81465EB6-1AE2-4235-9246-82E0661FB31B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81465EB6-1AE2-4235-9246-82E0661FB31B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81465EB6-1AE2-4235-9246-82E0661FB31B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

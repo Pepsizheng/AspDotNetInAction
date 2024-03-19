@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Zll1kHJadmWsok1Db69rNuBt/DbXsg3ZoTiJ2GW9HaLf4diWzJDyNoJX2e7Dr1WbwqFkNiLHpnnFfy1OCFd9lg==",
+  "dgSpecHash": "EaZj+PWPvxrLcyLruXlT4GDi5DHpoyztTSdByV4Z7Z8w0P5i3y1+HF/sXKXZNRuQ1WkpxcpHU3PDdxjQJK+cCA==",
   "success": true,
   "projectFilePath": "/workspaces/AspDotNetInAction/MiddleWareInside/MiddleWareInside.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/7.0.16/microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.16/microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.16/microsoft.netcore.app.host.linux-x64.7.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

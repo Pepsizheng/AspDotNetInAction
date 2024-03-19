@@ -5,7 +5,6 @@
 /workspaces/AspDotNetInAction/MiddleWareInside/bin/Debug/net7.0/MiddleWareInside.runtimeconfig.json
 /workspaces/AspDotNetInAction/MiddleWareInside/bin/Debug/net7.0/MiddleWareInside.dll
 /workspaces/AspDotNetInAction/MiddleWareInside/bin/Debug/net7.0/MiddleWareInside.pdb
-/workspaces/AspDotNetInAction/MiddleWareInside/obj/Debug/net7.0/MiddleWareInside.csproj.AssemblyReference.cache
 /workspaces/AspDotNetInAction/MiddleWareInside/obj/Debug/net7.0/MiddleWareInside.GeneratedMSBuildEditorConfig.editorconfig
 /workspaces/AspDotNetInAction/MiddleWareInside/obj/Debug/net7.0/MiddleWareInside.AssemblyInfoInputs.cache
 /workspaces/AspDotNetInAction/MiddleWareInside/obj/Debug/net7.0/MiddleWareInside.AssemblyInfo.cs
@@ -24,3 +23,4 @@
 /workspaces/AspDotNetInAction/MiddleWareInside/obj/Debug/net7.0/MiddleWareInside.pdb
 /workspaces/AspDotNetInAction/MiddleWareInside/obj/Debug/net7.0/MiddleWareInside.genruntimeconfig.cache
 /workspaces/AspDotNetInAction/MiddleWareInside/obj/Debug/net7.0/ref/MiddleWareInside.dll
+/workspaces/AspDotNetInAction/MiddleWareInside/obj/Debug/net7.0/MiddleWareInside.sourcelink.json

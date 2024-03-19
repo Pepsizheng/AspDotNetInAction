@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "xfrgoPmx9tBmj8R65rMjhiSC9qbvCWWwoLEGplhz83tB6y1Xhl1oPHDgY7nUXkPGsCRrmhq4E25qs4AHb3gw0A==",
+  "dgSpecHash": "0tha5NhKqAV7JUTVwUsIpfR4ep8ybqjZm0K4J0mTxQEkYJwPbXASeNOwXbwWeNvXcGNRr7c2BX3Wmsg3+jNKFQ==",
   "success": true,
   "projectFilePath": "/workspaces/AspDotNetInAction/ModelBinding/ModelBinding.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/7.0.16/microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.16/microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.16/microsoft.netcore.app.host.linux-x64.7.0.16.nupkg.sha512"
+  ],
   "logs": []
 }
